@@ -4,9 +4,9 @@ clc; clear all; close all;
 
 % Set javaplex directory
 
-JAVAPLEX_DIR = '/home/mendozasmith/src/javaplex/';
+JAVAPLEX_DIR = '/Users/myong/Documents/workspace/javaplex/';
 
-% Build matlab javaplex directory 
+% Build matlab javaplex directory s
 
 MATLAB_JAVAPLEX_DIR = fullfile(JAVAPLEX_DIR, 'src/matlab/for_distribution');
 
